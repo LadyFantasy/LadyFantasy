@@ -1,14 +1,14 @@
-# ¡Hola! 👋 I'm LadyFantasy
+# ¡Hola! 👋 I'm Soledad
 
 ## 🧠 Sobre mí | About Me
 
-🎓 Soy traductora profesional en transición al mundo del desarrollo de software. Me apasiona tanto el **front-end** como el **back-end**, y disfruto creando interfaces intuitivas y lógicas bien estructuradas.
+🎓 Soy traductora y Técnica Superior en Desarrollo de Software. Me apasiona tanto el **front-end** como el **back-end**, y disfruto creando interfaces intuitivas y lógicas bien estructuradas.
 
 Objetivo actual: seguir mejorando mis habilidades en desarrollo full-stack y participar en proyectos reales que mezclen tecnología, creatividad y comunicación multilingüe.
 
 ---
 
-🎓 I'm a professional translator transitioning into software development. I'm passionate about both **front-end** and **back-end**, and I enjoy creating intuitive interfaces and well-structured logic.
+🎓 I'm a translator and I have a Higher National Diploma in Software Development. I'm passionate about both **front-end** and **back-end**, and I enjoy creating intuitive interfaces and well-structured logic.
 
 Current goal: continue improving my full-stack development skills and participate in real projects that blend technology, creativity, and multilingual communication.
 

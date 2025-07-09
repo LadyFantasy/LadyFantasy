@@ -32,8 +32,7 @@ Current goal: continue improving my full-stack development skills and participat
 
 
 ## 📊 Mis estadísticas | My Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LadyFantasy&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=stars,issues,prs,contribs,rank&card_width=300)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LadyFantasy&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=stars,issues,prs,contribs,rank,reviews,discussions_started,discussions_answered&show=repos)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyFantasy&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&exclude_repo=TPI_DEVOPS,ProyectoPPVI,PFO1_prog-redes,ProgSobreRedes_PFO2,Find-close-meteorites,tests)
 

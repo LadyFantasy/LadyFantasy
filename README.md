@@ -26,7 +26,7 @@ Current goal: continue improving my full-stack development skills and participat
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LadyFantasy&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyFantasy&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&exclude_repo=PI-PPIV-Front)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LadyFantasy&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8&exclude_repo=tests&hide=test)
 
 
 ## 🌍 Idiomas | Languages

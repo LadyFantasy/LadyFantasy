@@ -1,16 +1,17 @@
 # ¡Hola! 👋 I'm Soledad
 
-## 🧠 Sobre mí | About Me
+## 🧠 👋 ¡Hola! / Hi!
+Soy Soledad, traductora audiovisual y Técnica Superior en Desarrollo de Software.
+Me apasiona tanto el desarrollo front-end como el back-end, y disfruto creando interfaces claras e intuitivas acompañadas de una lógica bien estructurada.
+Actualmente también estoy ampliando mis conocimientos en testing de software, con formación en QA manual y automatización, lo que me permite tener una visión más completa del ciclo de vida del desarrollo y la calidad de los productos.
+Mi objetivo es seguir creciendo como desarrolladora full-stack, aplicar mis habilidades en proyectos reales y aportar valor en la intersección entre tecnología, comunicación y creatividad multilingüe.
 
-🎓 Soy traductora y Técnica Superior en Desarrollo de Software. Me apasiona tanto el **front-end** como el **back-end**, y disfruto creando interfaces intuitivas y lógicas bien estructuradas.
+------------------------
 
-Objetivo actual: seguir mejorando mis habilidades en desarrollo full-stack y participar en proyectos reales que mezclen tecnología, creatividad y comunicación multilingüe.
-
----
-
-🎓 I'm a translator and I have a Higher National Diploma in Software Development. I'm passionate about both **front-end** and **back-end**, and I enjoy creating intuitive interfaces and well-structured logic.
-
-Current goal: continue improving my full-stack development skills and participate in real projects that blend technology, creativity, and multilingual communication.
+I’m Soledad, an audiovisual translator and software developer with a Higher National Diploma in Software Development.
+I’m passionate about both front-end and back-end, and I enjoy building intuitive user experiences supported by clean and scalable logic.
+I’m also expanding my skills in software testing, both manual and automation, which gives me a broader perspective on software quality and delivery.
+My current goal is to keep improving as a full-stack developer, gain more real-world experience, and contribute to projects that blend technology, creativity, and multilingual communication.
 
 ## 💻 Tecnologías que manejo | Technologies I work with
 

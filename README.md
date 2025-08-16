@@ -43,6 +43,6 @@ Mi objetivo es seguir creciendo como desarrolladora full-stack, aplicar mis habi
 ## 🌍 Idiomas | Languages
 
 - 🇪🇸 **Español** (Nativo | Native)
-- 🇺🇸 **Inglés** (C2)
-- 🇫🇷 **Francés** (C1)
+- 🇺🇸 **Inglés** (C1)
+- 🇫🇷 **Francés** (B2)
 
